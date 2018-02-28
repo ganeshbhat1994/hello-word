@@ -1,2 +1,2 @@
 # hello-word
-testing
+this is a hello word program-testing purpose
